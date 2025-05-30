@@ -104,3 +104,4 @@ curl http://localhost:5000/producao \
 - Credenciais de teste: `usuario: admin`, `senha: 1234`
 - Os dados são extraídos diretamente dos arquivos CSV públicos da Embrapa.
 - Em caso de dúvidas, utilize o Swagger em `/apidocs` para explorar e testar a API. 
+- A ordem dos campos exibida nos exemplos do Swagger pode variar por limitação da ferramenta, mas isso não afeta a funcionalidade dos endpoints.
