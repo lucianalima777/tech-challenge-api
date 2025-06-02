@@ -21,7 +21,7 @@ A API faz a leitura dos dados diretamente dos arquivos CSV da Embrapa, com fallb
    cd tech-challenge-2025
    ```
 
-2. **Crie um ambiente virtual (opcional, mas recomendado):**
+2. **Crie um ambiente virtual (opcional):**
    ```bash
    python -m venv venv
    source venv/bin/activate  # Linux/Mac
